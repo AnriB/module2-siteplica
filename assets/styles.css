@@ -62,3 +62,19 @@ body {
   border-bottom-color: grey;
   border-bottom-width: 1px;
 }
+
+.profile-header2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  text-align: left;
+  border-bottom: solid;
+  border-bottom-color: grey;
+  border-bottom-width: 1px;
+}
+
+.btn-primary {
+  background-color: #141414;
+  border-color: grey;
+  border-radius: 0px;
+  color: grey;
+}
