@@ -49,3 +49,16 @@ body {
   padding-right: 40px;
   padding-top: 30px;
 }
+
+.profile {
+  width: 700px;
+}
+
+.profile-header {
+  font-family: "Roboto", sans-serif;
+  font-size: 55px;
+  text-align: left;
+  border-bottom: solid;
+  border-bottom-color: grey;
+  border-bottom-width: 1px;
+}
