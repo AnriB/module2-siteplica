@@ -78,3 +78,37 @@ body {
   border-radius: 0px;
   color: grey;
 }
+
+#serviceButton {
+  color: grey;
+  background-color: #141414;
+  border: solid grey 1px;
+  margin: 0;
+  padding: 2px;
+  font-size: 14px;
+}
+#icon {
+  margin-right: 15px;
+  font-size: 27px;
+  letter-spacing: 10px;
+}
+.link {
+  max-width: 980px;
+  margin: 20px auto 0;
+  padding: 0 4%;
+  color: grey;
+  font-size: 14px;
+  line-height: 23pt;
+}
+.link:hover {
+  color: grey;
+}
+.copyright {
+  color: grey;
+  font-size: 14px;
+}
+footer {
+  margin-top: 10px;
+  padding-top: 20px;
+  background-color: #141414;
+}
